@@ -1,5 +1,4 @@
-# roomboards
-roomboards-proto
+# roomBoards
 
 ## safari ipad mini4 
 ![alt text][safari1]
@@ -25,3 +24,4 @@ roomboards-proto
 ![2][sketch]
 
 [sketch]:https://cloud.githubusercontent.com/assets/11837845/14795792/b4b27e24-0aef-11e6-8bf2-8277a2b77de8.png
+>>>>>>> 24480cfc1d643ceb5c3ae69d8dab5aaa83d900f6
