@@ -3,6 +3,4 @@ roomboards-proto
 
 ![alt text][safari]
 
-[safari]: ![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2" "Safari ipads"
+[safari]: https://cloud.githubusercontent.com/assets/11837845/14795789/b4adbbaa-0aef-11e6-8a51-a49db6a7e4d7.png "Safari ipads"
